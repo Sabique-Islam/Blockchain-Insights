@@ -1,4 +1,5 @@
-# Blockchain Insights -->
+# Blockchain Insights --> 
+>  Hmm, this will take time :) 
 
 This repo contains a collection of resources on blockchain development.
 
