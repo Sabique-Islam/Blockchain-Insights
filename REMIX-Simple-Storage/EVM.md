@@ -1,6 +1,6 @@
 # Ethereum Virtual Machine (EVM)
 
-## What’s the EVM? 😎
+## What’s the EVM? 
 The EVM is like a magic computer inside Ethereum. It runs smart contracts, which are like tiny apps that do stuff automatically, like sending crypto or selling NFTs.
 
 - **Think of it as:** A robot that follows your instructions (code) and makes things happen on the blockchain.  
@@ -8,7 +8,7 @@ The EVM is like a magic computer inside Ethereum. It runs smart contracts, which
 
 ---
 
-## How’s It Work? 🚀
+## How’s It Work? 
 Picture the EVM as a vending machine. You put in a coin (a transaction), and it gives you a snack (like moving crypto). Here’s how it goes:
 
 - **You Make a Smart Contract:** You write some code (in a language called Solidity) for something cool, like a crypto game.  
@@ -21,7 +21,7 @@ Picture the EVM as a vending machine. You put in a coin (a transaction), and it 
 
 ---
 
-## Why’s the EVM Awesome? 🌟
+## Why’s the EVM Awesome? 
 
 - **It Can Do Lots:** It can run almost any kind of app, from games to money stuff.  
 - **Super Safe:** Your code runs in a locked box, so it can’t break anything or steal your crypto.  
@@ -30,7 +30,7 @@ Picture the EVM as a vending machine. You put in a coin (a transaction), and it 
 
 ---
 
-## What’s Inside the EVM? 🧰
+## What’s Inside the EVM? 
 The EVM has some simple tools to get stuff done:
 
 - **Stack:** Like a stack of Post-it notes for quick math.  
@@ -40,7 +40,7 @@ The EVM has some simple tools to get stuff done:
 
 ---
 
-## Example Time! 🐧
+## Example Time! 
 Let’s say you’re buying a penguin NFT:
 
 1. You tell the EVM, “I want that penguin for 0.1 ETH!”  
@@ -48,11 +48,11 @@ Let’s say you’re buying a penguin NFT:
 3. It updates the blockchain to say, “You got the penguin!”  
 4. You pay a little gas to keep the EVM happy.
 
-**Now you’re the proud owner of a digital penguin. Woot! 🎉**
+**Now you’re the proud owner of a digital penguin. Woot! **
 
 ---
 
-## Issues with it 😕
+## Issues with it 
 The EVM’s not perfect:
 
 - **Gas Costs Money:** Running big apps can get pricey.  
